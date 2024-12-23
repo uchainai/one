@@ -17,7 +17,7 @@ function ResNav() {
       <div className='bg-orange-500 text-white sticky top-0 z-10 sm:w-full motion-preset-slide-up-md motion-duration-75 motion-delay-75 '>
         <div className='header max-w-5xl mx-auto p-4 flex justify-between sm:justify-between items-center'>
 
-          <a href="https://www.facebook.com/profile.php?id=100079232910282&mibextid=kFxxJD"><h1 className='text-xl flex gap-2 hover:animate-bounce duration-75 cursor-pointer '> <FaHotel className='text-2xl font-serif hover:font-bold cursor-pointer' />HOTEL-RESORT</h1></a>
+          <h1 className='text-xl flex gap-2 hover:animate-bounce duration-75 cursor-pointer '> <FaHotel className='text-2xl font-serif hover:font-bold cursor-pointer' />HOTEL-RESORT</h1>
           <button    className='btn text-2xl sm:hidden focus:outline-none focus:'>
             <BiAlignRight  onClick={toggleMenu} />
           </button>
