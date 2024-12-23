@@ -3,7 +3,6 @@ import { BiAlignRight } from 'react-icons/bi'
 import { FaHotel } from 'react-icons/fa'
 import { NavLink } from 'react-router-dom'
  
-
 function ResNav() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -11,13 +10,12 @@ function ResNav() {
     setIsMenuOpen(!isMenuOpen);
   };
    
-
   return (
     <div>
-      <div className='bg-orange-500 text-white sticky top-0 z-10 sm:w-full motion-preset-slide-up-md motion-duration-75 motion-delay-75 '>
+      <div className='bg-orange-600 text-white sticky top-0 z-10 sm:w-full motion-preset-slide-up-md motion-duration-75 motion-delay-75 '>
         <div className='header max-w-5xl mx-auto p-4 flex justify-between sm:justify-between items-center'>
 
-          <h1 className='text-xl flex gap-2 hover:animate-bounce duration-75 cursor-pointer '> <FaHotel className='text-2xl font-serif hover:font-bold cursor-pointer' />HOTEL-RESORT</h1>
+          <h1 className='text-xl flex gap-2 hover:animate-bounce duration-75 cursor-pointer '> <FaHotel className='text-2xl font-serif hover:font-bold cursor-pointer' />HOTEL-RESORTs</h1>
           <button    className='btn text-2xl sm:hidden focus:outline-none focus:'>
             <BiAlignRight  onClick={toggleMenu} />
           </button>
