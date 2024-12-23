@@ -75,7 +75,7 @@ function ResNav() {
           <div className='flex flex-col gap-8 items-center py-3'>
             <button className=' bg-orange-500 px-5 py-2 text-black rounded btn '>Login </button>
 
-            <img className='h-16 w-16 rounded-full hover:border hover:border-gray-400' src="./public/one.jpg" alt="" />
+            <img className='h-16 w-16 rounded-full hover:border hover:border-gray-400' src="./public/two.jpg" alt="" />
 
           </div>
         </div>
