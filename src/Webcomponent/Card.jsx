@@ -3,9 +3,9 @@ function Card() {
   return (
     <div>
       <hr className='bg-white w-4/12 mx-auto' />
-      <h1 className='text-3xl text-center text-white py-4'>Our Resorts</h1>
-      <div class="flex min-h-screen items-center justify-center bg-neutral-800">
-        <div class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
+      <h1 className='text-3xl text-center text-black py-4'>Our Resorts</h1>
+      <div class="flex min-h-screen items-center justify-center ">
+        <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-3">
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
             <div class="h-96 w-72 motion motion-preset-slide-left flex-1    motion-delay-[1000ms] motion-ease-spring-bouncier">
               <img class="h-full w-full object-cover transition-transform duration-500 group-hover:rotate-3 group-hover:scale-125" src="./public/two.jpg" alt="" />

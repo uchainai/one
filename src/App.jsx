@@ -8,7 +8,7 @@ import Hotel from './Webcomponent/Hotel';
 
 function App() {
   return (
-    <div className='bg-gray-700'>
+    <div className='bg-slate-300'>
       <BrowserRouter>
          <Hotel/>
         <Routes>
