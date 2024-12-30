@@ -18,6 +18,7 @@ createRoot(document.getElementById('root')).render(
         <Lending/>
          <Footer/>
   <ResNav/> */}
+  <ResNav/>
   <Wheather/>
   </StrictMode>,
 )
