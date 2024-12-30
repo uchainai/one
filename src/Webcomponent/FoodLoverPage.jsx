@@ -1,13 +1,12 @@
 import React from "react";
-
+import image from "../assets/bgb.webe"
 const FoodLoverPage = () => {
   return (
-    <div
-      className="w-full h-screen flex justify-center items-center bg-cover bg-center"
-      style={{
-        backgroundImage: "url(./image/hello.jpg)",
-      }}
-    >
+   <div className=" bg-cover " style={{
+    backgroundImage: `url(${image})` 
+  }} >
+     <div
+      className="w-full h-screen flex justify-center items-center">
       <div className="text-center text-white">
         {/* Circular Card */}
         <div className="inline-block bg-black bg-opacity-60 p-10 rounded-full w-72 h-72 mb-6 ">
@@ -30,6 +29,7 @@ const FoodLoverPage = () => {
         </div>
       </div>
     </div>
+   </div>
   );
 };
 

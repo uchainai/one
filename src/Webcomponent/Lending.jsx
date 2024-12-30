@@ -1,17 +1,14 @@
 import React from 'react'
+import Footer from './Footer'
 
 function Lending() {
     return (
-        <div>
-            <div class="h-screen overflow-y-auto text-black">
-                {/* <header class="flex items-center justify-between p-4">
-                    <a href="https://rombo.co/" class="motion-preset-slide-down text-2xl font-black">Rombo</a>
-                    <nav class="mr-4 flex gap-6 font-semibold">
-                        <a href="https://rombo.co/" class="motion-preset-rebound-down motion-delay-[400ms]">Products</a>
-                        <a href="https://rombo.co/" class="motion-preset-rebound-down motion-delay-[450ms]">Learn More</a>
-                        <a href="https://rombo.co/" class="motion-preset-rebound-down motion-delay-[500ms]">Contact Us</a>
-                    </nav>
-                </header> */}
+        <div className='mt-10 bg-gray-200'>
+           
+            <div class="h-screen mt-16 overflow-y-auto text-black">
+              
+                 <h1 className='text-3xl text-center text-black pt-20 font-bold'>Shoping Now</h1>
+                 <hr  className=' w-4/12 mx-auto border-spacing-0 bg-black h-1'/>
 
                 <main class="mx-auto max-w-4xl overflow-x-hidden px-8 py-4">
                     
@@ -41,9 +38,9 @@ function Lending() {
                     <p class="motion-preset-fade-lg mt-4 font-thin motion-delay-[2s] opacity-100 text-black text-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
                 </main>
             </div>
-
+          
         </div>
     )
 }
 
-export default Lending
+export default Lending;

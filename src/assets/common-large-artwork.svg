@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>common-large-artwork</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="33" height="28"></rect>
+        <path d="M0,18.9623906 C0,18.9623906 13.8897398,17.0853243 15.1017017,2.97903109 C15.1017017,2.97903109 24.0414986,6.89430187 32.9812954,0.0291001867 C33.3164711,13.4869685 8.78833663,27.651343 0,18.9623906" id="path-3"></path>
+        <path d="M16.4969866,14.0279878 C16.4969866,14.0279878 20.3332498,17.1252086 24.3187378,14.7940482 C19.0794173,18.996097 12.3785336,21.794679 6.914807,21.6244709 C7.34123617,21.4923566 12.8750813,19.6974202 16.4969866,14.0279878 Z" id="path-5"></path>
+        <path d="M0.252545824,13.0126087 C0.252545824,13.0126087 9.67757617,11.7386937 10.4999488,2.16690654 C10.4999488,2.16690654 16.5662095,4.82375061 22.6324701,0.165040056 C22.8602214,9.29719692 6.21586964,18.9085984 0.252545824,13.0126087" id="path-7"></path>
+        <path d="M11.4468835,9.66432988 C11.4468835,9.66432988 14.0508766,11.7665726 16.7558432,10.1831889 L16.5705626,10.330521 C13.0433911,13.099935 8.58925216,14.9321531 4.94570328,14.8190251 C4.95345697,14.8158174 4.96257684,14.8129622 4.97356126,14.8094559 L5.05460023,14.782735 C5.08789255,14.771452 5.12732635,14.7577496 5.17248803,14.7414974 L5.32474309,14.6849613 C6.39261596,14.2768035 9.3789448,12.9011498 11.4468835,9.66432988 Z" id="path-9"></path>
+        <path d="M0.103553885,9.09748683 C0.103553885,9.09748683 6.77761861,8.19558954 7.36017934,1.41736078 C7.36017934,1.41736078 11.6557583,3.29889486 15.9513373,-0.000119140983 C16.1123338,6.46655593 4.32648805,13.2727828 0.103553885,9.09748683" id="path-11"></path>
+        <path d="M8.03047477,6.726462 C8.03047477,6.726462 9.87464269,8.21512866 11.790053,7.09401195 L11.6990987,7.16648229 C9.1945491,9.14582625 6.01948101,10.4579148 3.42513473,10.3766811 L3.43879287,10.3724315 C3.72216419,10.2830182 6.32001877,9.40392408 8.03047477,6.726462 Z" id="path-13"></path>
+    </defs>
+    <g id="common-large-artwork" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <polygon id="Stroke-2" stroke="#111517" stroke-width="2" fill="#F5F5F5" stroke-linecap="round" points="16.7755102 83.2244898 83.2244898 83.2244898 83.2244898 16.7755102 16.7755102 16.7755102"></polygon>
+            <g transform="translate(32.000000, 36.000000)" id="BrandCrowd-symbol">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill="#FFFFFF" opacity="0" xlink:href="#path-1"></use>
+                <g id="Group-4" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, 6.444444)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Fill-24" stroke="none" fill="#F21B3F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Combined-Shape" stroke="none" fill="#BF000C" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(5.322581, 3.222222)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Fill-30" stroke="none" fill="#7D7C7A" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <use id="Combined-Shape" stroke="none" fill="#5D5549" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+                <g id="Group-3" mask="url(#mask-2)">
+                    <g transform="translate(8.516129, 0.000000)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <use id="Fill-35" stroke="none" fill="#8DA1B2" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <use id="Combined-Shape" stroke="none" fill="#66798A" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-19" transform="translate(6.025431, 6.017689)" stroke-linecap="round" stroke-width="2">
+                <line x1="10.1163339" y1="-2.22044605e-16" x2="10.1163339" y2="4.47584122" id="Stroke-3" stroke="#0097D7"></line>
+                <line x1="10.4323065" y1="83.3225079" x2="10.4323065" y2="87.7983491" id="Stroke-5" stroke="#F5BF54"></line>
+                <line x1="77.4383599" y1="0.496044732" x2="77.4383599" y2="4.97188596" id="Stroke-7" stroke="#7DDEB1"></line>
+                <line x1="77.4647242" y1="82.73772" x2="77.4647242" y2="87.2135612" id="Stroke-9" stroke="#F08481"></line>
+                <line x1="87.2135612" y1="10.660415" x2="82.73772" y2="10.660415" id="Stroke-11" stroke="#F5BF54"></line>
+                <line x1="4.97188596" y1="10.6867794" x2="0.496044732" y2="10.6867794" id="Stroke-13" stroke="#F08481"></line>
+                <line x1="87.7983491" y1="77.6928327" x2="83.3225079" y2="77.6928327" id="Stroke-15" stroke="#0097D7"></line>
+                <line x1="4.47584122" y1="78.0088053" x2="4.54747351e-13" y2="78.0088053" id="Stroke-17" stroke="#7DDEB1"></line>
+            </g>
+        </g>
+    </g>
+</svg>

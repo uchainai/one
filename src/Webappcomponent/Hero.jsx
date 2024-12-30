@@ -1,13 +1,13 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-
+import Image from "../assets/carde.jpeg"
 function Hero() {
   return (
     <div id="id">
       <div
-        className="hero min-h-screen"
+        className="hero min-h-screen bg-cover bg-center"
         style={{
-          backgroundImage: `url(./image/two.jpg)`,
+          backgroundImage: `url(${Image})`,
         }}
       >
         <div className="hero-overlay bg-opacity-60"></div>
